@@ -3,7 +3,7 @@
 
 a website with my resume and portfolio. made for a class challenge. contains all of my past projects including animation, playwriting, TOWER, and of course, coding.
 
-alternative link:
+alternative link: https://moresoups.github.io/Resumewebsite/
 
 
 All code is my own work with special thanks to www.w3schools.com for helpful tips and tricks which really helped me when I was stuck
